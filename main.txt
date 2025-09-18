@@ -2,7 +2,7 @@ Hello, I am LambdaTechnology, a GDI Malware maker.
 I'm interested in GDI.
 I’m looking to collaborate with @coder-linjian @pankoza2-pl(Two big GDI malware maker)
 (In fact, I'm 12 years old, but I'm good at C++ and I have a lot of knowledge of making GDI malwares)
-My e-mail:lambdaexe114@foxmail.com
+How to find me:https://space.bilibili.com/3546842902038662 or lambdaexe114@foxmail.com(I have NO youtube accounts cuz I'm in Shanghai, China :/)
 (I am a Chinese.So if some sentences I write has some grammer error,please pardon me :/)
 The most important one:
 N17Pro3426 was not get in to use my code, payloads,or bytebeats.
